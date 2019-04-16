@@ -1,6 +1,6 @@
 # nuxt-demo
 
-> My supreme Nuxt.js project
+> My Nuxt.js demo project
 
 ## Build Setup
 
@@ -19,4 +19,3 @@ $ npm start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
